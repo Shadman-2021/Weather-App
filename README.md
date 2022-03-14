@@ -8,7 +8,7 @@ According to the weather , the front image also changes that represents the weat
 
 <strong>Images of the app</strong> :
 
-<img src="https://github.com/parthpanchal123/WeatherApp/blob/master/Screenshots/app_demo.jpg" alt="Demo1" width="500"/>
-<img src="https://github.com/parthpanchal123/WeatherApp/blob/master/Screenshots/app_demo2.jpg" alt="Demo2" width="500"/>
+<img src="https://github.com/Shadman-2021/Weather-App/tree/main/Screenshots/app_demo.jpg" alt="Demo1" width="500"/>
+<img src="https://github.com/Shadman-2021/Weather-App/tree/main/Screenshots/app_demo2.jpg" alt="Demo2" width="500"/>
 
 
